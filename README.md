@@ -2,11 +2,12 @@
 
 Let use vin to create our README.md file!!!
 
+
 * this
 * is
 * a 
-* bullet List
-*list
+* bullet
+*Cohort
 
 1. This 
 2. is
